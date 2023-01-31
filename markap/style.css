@@ -1,0 +1,30 @@
+ul {
+    color: fuchsia;
+}
+#title {
+    color: brown;
+}
+.title {
+color: greenyellow;
+}
+.paragraf {
+    color: red;
+}
+p~span {
+    color: crimson;
+}
+a [title] {
+    color: aqua;
+}
+ol>li {
+    color: khaki;
+}
+stop+i {
+    color: darkgreen;
+}
+#paragraf1 {
+    color: blueviolet;
+}
+li:nth-child(4) {
+color: lightseagreen;
+}
